@@ -1,7 +1,7 @@
 Moodle block_customreports
 ============================
 
-# Moodle block plugin for custom reports to generate course summary of given year inputs
+# Moodle block plugin for custom reports to generate course summary of given date inputs
 
 Requirements
 ------------
@@ -11,7 +11,7 @@ This plugin requires Moodle 4.0+
 Description of this plugin
 --------------------------
 
-The block_customreports plugin displays course completion count overall in each term. Every school or college has any term / semester names. You can get semester wise course completion in this report.
+The block_customreports plugin displays course completion count overall in each term. Every school or college has term / semester names. You can get semester wise course completion in this report.
 
 Installation
 ------------
@@ -42,4 +42,4 @@ This plugin is developed and tested on Moodle adaptable theme. It also work with
 Future proposal
 -----------------
 
-Due to limited time and resource, we have built for our own local needs and published in community. We are aware to enhance this block into more extensible report with graphs in future. If you are having any inputs let us share in https://github.com/kirupalaksh/moodle_block/issues
+Due to limited time and resource, we have built for our own local needs and published. We are aware to enhance this block into more extensible report with graphs in future. If you are having any inputs let us share in https://github.com/kirupalaksh/moodle_block/issues
