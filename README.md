@@ -11,7 +11,7 @@ This plugin requires Moodle 4.0+
 Description of this plugin
 --------------------------
 
-The block_customreports plugin displays a list of the course's enrolled students graded with course completion or certification. Total no of course completed in a particular dates. Every school or college has any term / semester names. You can get semester wise course completion in this report.
+The block_customreports plugin displays course completion count overall in each term. Every school or college has any term / semester names. You can get semester wise course completion in this report.
 
 Installation
 ------------
@@ -37,7 +37,7 @@ This capability controls who is allowed to add a new customreports block to all 
 Theme support
 -------------
 
-This plugin is developed and tested on Moodle adaptable theme.
+This plugin is developed and tested on Moodle adaptable theme. It also work with Boost child themes, including Moodle Core themes. 
 
 Future proposal
 -----------------
