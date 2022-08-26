@@ -1,1 +1,1 @@
-# -moodlepartner_svhs-customreports-
+# Moodle block plugin for custom reports to generate course summary of given year inputs
